@@ -6,7 +6,7 @@
 # 💫 About Me:
 - 💎 I'm a IT Engineer,I am a beginner
 - 💻 Back-end developer (.NET C#) ,I am new to DevOps and just started learning it
-- 🔭 I'm currently working on a Crypto-Currency exchange project and learn about blockchain technologies.
+- 🔭 anything
 - 📧 Reach me by email: khshayar9605@gmail.com
 - 🔗 Follow me on linkedin[LinkedIn](https://www.linkedin.com/in/khshayar/)
 - I am eager to enhance my skills and gain practical experience through an internship. <br>I am passionate about practicing, and you can view all my practice projects here. Some of them mightbe very basic or beginner-level, but I have shared all of them to track my progress.
