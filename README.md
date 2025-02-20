@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Khashayar+;Software+Developer" alt="Khashayar" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Khashayar+;Backend+Developer;+I+am+a+DevOps+Enthusiast" alt="Khashayar" />
 </p>
 <h2>KHASHAYAR</h2>
 
